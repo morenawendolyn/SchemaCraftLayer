@@ -1,0 +1,23 @@
+
+---
+
+### **2. 32_APIFlowRadar**  
+**Description:**  
+Tracks the flow of multiple API endpoints and visualizes response time variations and availability dips.
+
+#### **README.md**
+```markdown
+# APIFlowRadar - Real-Time Endpoint Latency Monitor
+
+APIFlowRadar provides insights into performance drift, bottlenecks, and sudden failures across multiple endpoints.
+
+## Features
+- Real-time response tracking  
+- CSV / JSON export  
+- Status + latency logging  
+
+## Usage
+```bash
+git clone https://github.com/your-username/32_APIFlowRadar.git
+cd 32_APIFlowRadar
+python monitor.py
