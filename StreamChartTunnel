@@ -1,0 +1,23 @@
+
+---
+
+### **4. 32_StreamChartTunnel**  
+**Description:**  
+Visualizes fast-moving numeric streams using a smooth, scrollable real-time charting interface.
+
+#### **README.md**
+```markdown
+# StreamChartTunnel - Realtime Scrolling Chart Renderer
+
+StreamChartTunnel delivers real-time visual feedback for data streams in a timeline format, ideal for system metrics.
+
+## Features
+- Realtime line chart  
+- Scrollable timeline  
+- Adjustable refresh interval  
+
+## Usage
+```bash
+git clone https://github.com/your-username/32_StreamChartTunnel.git
+cd 32_StreamChartTunnel
+python visualize.py
